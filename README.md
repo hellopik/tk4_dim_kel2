@@ -9,6 +9,7 @@
 - Yusuf Dwenva Gulo – 2602269506
 
 **Penyiapan database awal untuk mengoperasikan aplikasi**
+
 Query untuk penyiapan databasenya dapat diambil juga dari tugas TK3 pada minggu sebelumnya. Querynya adalah sebagai berikut
 
     CREATE SCHEMA db_tk3rev;
