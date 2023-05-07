@@ -8,7 +8,7 @@
 - Unggul Ammarramyaji Nuswantoro - 2602269361
 - Yusuf Dwenva Gulo – 2602269506
 
-**Penyiapan database awal untuk mengoperasikan aplikasi**
+**1. Penyiapan database awal untuk mengoperasikan aplikasi**
 
 Query untuk penyiapan databasenya dapat diambil juga dari tugas TK3 pada minggu sebelumnya. Querynya adalah sebagai berikut
 
@@ -227,7 +227,7 @@ Query untuk penyiapan databasenya dapat diambil juga dari tugas TK3 pada minggu 
     from sip.pembelian  
     group by IdBarang;
   
- **Penyesuaian Koneksi Database pada file utils/database.php**
+ **2. Penyesuaian Koneksi Database pada file utils/database.php**
 
     ....
     private $server = "localhost";
@@ -238,7 +238,7 @@ Query untuk penyiapan databasenya dapat diambil juga dari tugas TK3 pada minggu 
     ...
 Pada bagian kode di atas dapat disesuaikan sesuai pengaturan database pada komputer lokal masing-masing.
 
-**Finally, Voila !**
+**3. Finally, Voila !**
 **Repository ini adalah bentuk pemenuhan TK-4 dengan pembangunan aplikasi CRUD dari class-class yang dipersyaratkan**
 
 **Oleh Kelompok 2**
