@@ -29,6 +29,12 @@
                 <div class="flex-grow-1"> Penjualan </div>
             </div> 
         </a>
+        <a href="view/pengguna" class="list-group-item list-group-item-action">
+            <div class="d-flex align-items-center w-25">
+                <div class="w-25"><i class="fas fa-user"></i></div>
+                <div class="flex-grow-1"> Pengguna </div>
+            </div> 
+        </a>        
         <a href="view/supplier" class="list-group-item list-group-item-action">
             <div class="d-flex align-items-center w-25">
                 <div class="w-25"><i class="fas fa-truck-field"></i></div>
