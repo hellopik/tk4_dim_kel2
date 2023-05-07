@@ -239,3 +239,15 @@ Query untuk penyiapan databasenya dapat diambil juga dari tugas TK3 pada minggu 
 Pada bagian kode di atas dapat disesuaikan sesuai pengaturan database pada komputer lokal masing-masing.
 
 **3. Finally, Voila !**
+
+Langkah-langkah yang anda lakukan telah sukses jika berhasil mendapatkan laman sebagai berikut : 
+
+![SS 1](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/1.png)
+![SS 2](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/2.png)
+![SS 3](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/3.png)
+![SS 4](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/4.png)
+![SS 5](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/5.png)
+![SS 6](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/6.png)
+![SS 7](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/7.png)
+![SS 8](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/8.png)
+
