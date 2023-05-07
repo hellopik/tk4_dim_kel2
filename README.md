@@ -1,4 +1,5 @@
 # TK-4 Introduction to Data and Information Management oleh Kelompok 2 Kelas DFBA
+![SS 1](https://github.com/hellopik/tk4_dim_kel2/raw/main/screenshot/1.png)
 **Repository ini adalah bentuk pemenuhan TK-4 dengan pembangunan aplikasi CRUD dari class-class yang dipersyaratkan**
 
 **Oleh Kelompok 2**
